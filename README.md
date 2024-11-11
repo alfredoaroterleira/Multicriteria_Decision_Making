@@ -1,6 +1,7 @@
 # Análisis para elegir un país para realizar un programa de maestría
-## 🗂️ Criterios
+🔗 Trabajo: https://alfredoaroterleira.github.io/Multicriteria_Decision_Making/ 
 
+## 🗂️ Criterios
 ### 🏡 Cost of living
 - **Brasil**: generalmente más bajo que en Estados Unidos y Europa occidental, pero varía ampliamente según la ciudad. Las ciudades importantes como São Paulo y Río de Janeiro pueden ser caras, especialmente en materia de vivienda. Las regiones metropolitanas de Brasil presentan una amplia gama de costos de vida, siendo la vivienda un factor significativo (Azzoni y Seabra, 2018).  La elasticidad de los costos de la vivienda en relación con los salarios es notablemente alta, lo que indica que los costos de vida más altos a menudo se corresponden con salarios más altos en las áreas urbanas (Almeida et al., 2014).
 
