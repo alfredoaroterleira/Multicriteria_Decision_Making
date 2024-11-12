@@ -14,7 +14,9 @@
 🔗 Enlaces:
     - https://typeset.io/search?q=costo%20de%20vida%20en%20brasil%20comparado%20eeuuu 
     - https://typeset.io/papers/custo-comparativo-de-alugueis-para-cidades-e-areas-de-w23k0p75l0 
-    - https://typeset.io/papers/comparing-the-incidence-of-taxes-and-social-spending-in-5068mwq30l 
+    - https://typeset.io/papers/comparing-the-incidence-of-taxes-and-social-spending-in-5068mwq30l
+    - https://typeset.io/papers/desenvolvimento-economico-e-qualidade-de-vida-no-brasil-uma-4myeguthyi
+    - https://typeset.io/papers/cost-of-living-equilibrium-wages-and-cost-of-public-services-2p73hy9ufl
 
 ### 📚 Language difficulty
 - **Alemán**:
