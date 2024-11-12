@@ -20,19 +20,19 @@
 
 ### 📚 Language difficulty
 - **Alemán**:
-    - Costo de Cursos: Los cursos de alemán suelen ser más caros, especialmente si se consideran clases con profesores nativos y los niveles avanzados. 350 soles el curso por grupos
+    - Costo de Cursos: Los cursos de alemán suelen ser más caros, especialmente si se consideran clases con profesores nativos y los niveles avanzados. Son 350 soles el curso por grupos
     - Materiales de Estudio: Los libros y materiales específicos para el aprendizaje del alemán pueden ser costosos.
     - Tiempo Necesario: Debido a su compleja gramática y estructura, se requiere más tiempo para alcanzar la fluidez.
     - Costo Total Estimado: Alto
 
 - **Inglés**:
-    - Costo de Cursos: Existe una gran oferta de cursos de inglés, con una amplia gama de precios. Sin embargo, los cursos de calidad y los programas intensivos pueden ser costosos. 280 soles el curso por grupos
+    - Costo de Cursos: Existe una gran oferta de cursos de inglés, con una amplia gama de precios. Sin embargo, los cursos de calidad y los programas intensivos pueden ser costosos. Son 280 soles el curso por grupos
     - Materiales de Estudio: Moderados, hay muchos recursos gratuitos pero los materiales de calidad y las certificaciones pueden ser caros.
     - Tiempo Necesario: Moderado, ya que muchos estudiantes comienzan con un nivel básico desde la escuela.
     - Costo Total Estimado: Moderado
 
 - **Portugués**:
-    - Costo de Cursos: Generalmente más económicos, especialmente en comparación con el alemán y el inglés. 300 soles el curso por grupos
+    - Costo de Cursos: Generalmente más "económicos", especialmente en comparación con el alemán y el inglés. Son 300 soles el curso por grupos
     - Materiales de Estudio: Relativamente económicos y accesibles.
     - Tiempo Necesario: Moderado, pero más fácil de aprender para hablantes de lenguas romances.
     - Costo Total Estimado: Moderado
